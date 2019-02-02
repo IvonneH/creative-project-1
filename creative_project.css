@@ -18,19 +18,22 @@ p {
 /*Home*/
 
 .wrapper {
-    -webkit-columns: 2 200px;
-    -moz-columns: 2 200px;
-    columns: 2 200px;
-    background-color: rgba(0, 0, 0, 0.5);
+    -webkit-columns: 2 300px;
+    -moz-columns: 2 300px;
+    columns: 2 300px;
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .content {
     color: white;
-    padding: 10px;
+    padding: 15px;
+}
+
+.content p {
     text-align: justify;
 }
 
-.portrait {
+.portrait img {
     float: left;
 }
 
