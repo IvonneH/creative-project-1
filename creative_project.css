@@ -27,7 +27,11 @@ p {
 .content {
     color: white;
     padding: 10px;
-    text-align: left;
+    text-align: justify;
+}
+
+.portrait {
+    float: left;
 }
 
 
