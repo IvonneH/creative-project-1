@@ -1,8 +1,19 @@
 /*Footer*/
-
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.footer a {
+    color: rgba(0,0,0,.7);
+}
 
 /*Home*/
-
 
 /*Nav Bar*/
 .bg-light {
