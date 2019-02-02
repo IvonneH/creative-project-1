@@ -16,6 +16,21 @@ p {
 }
 
 /*Home*/
+
+.wrapper {
+    -webkit-columns: 2 200px;
+    -moz-columns: 2 200px;
+    columns: 2 200px;
+}
+
+.content {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 10px;
+}
+
+
+/*
 .wrapper {
     display: flex;
 }
@@ -24,11 +39,14 @@ p {
     flex: 1;
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
+    padding: 10px;
 }
 
 .portrait {
     flex: 4;
 }
+*/
+
 
 /*Footer*/
 .footer {
