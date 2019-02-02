@@ -1,3 +1,34 @@
+h2 {
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+/*Home*/
+.wrapper {
+    display: flex;
+}
+
+.content {
+    flex: 1
+}
+
+.portrait {
+    flex: 4
+}
+
+
 /*Footer*/
 .footer {
     position: fixed;
@@ -12,8 +43,6 @@
 .footer a {
     color: rgba(0,0,0,.7);
 }
-
-/*Home*/
 
 /*Nav Bar*/
 .bg-light {
@@ -58,20 +87,4 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-}
-
-h2 {
-    color: white;
-    text-align: center;
-    margin-top: 20px;
-}
-
-h3 {
-    color: white;
-    text-align: center;
-    margin-top: 20px;
-}
-p {
-    color: white;
-    text-align: center;
 }
