@@ -1,0 +1,65 @@
+/*Footer*/
+
+
+/*Home*/
+
+
+/*Nav Bar*/
+.bg-light {
+    background-color: white!important;
+}
+
+.fa-pen-nib {
+    color: black;
+}
+
+/*Evergreen*/
+.evergreen {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Evergreen_forest_in_Garmisch-Partenkirchen_%28Unsplash%29.jpg/1024px-Evergreen_forest_in_Garmisch-Partenkirchen_%28Unsplash%29.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/*Funny*/
+.funny {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://upload.wikimedia.org/wikipedia/commons/7/7a/Basketball.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/*Other*/
+.other {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Zero_Point_Sonamarg.jpg/1024px-Zero_Point_Sonamarg.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/*Favorite*/
+.favorite {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Spiral_stairs_%28%D1%81%D0%BF%D0%B8%D1%80%D0%B0%D0%BB%D0%BD%D0%BE_%D1%81%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D0%B8%D1%88%D1%82%D0%B5%29.jpg/800px-Spiral_stairs_%28%D1%81%D0%BF%D0%B8%D1%80%D0%B0%D0%BB%D0%BD%D0%BE_%D1%81%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D0%B8%D1%88%D1%82%D0%B5%29.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+p {
+    color: white;
+    text-align: center;
+}
